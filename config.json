@@ -1,20 +1,20 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
+  "readmeUrl": "https://github.com/bwz3rbot/bwz3rbot/tree/main",
+  "title": "Senior Full Stack Node.js Web Developer",
+  "name": "Jacob C.",
   "ascii": "liveterm",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "bwz3rbot",
+    "linkedin": "jacob-c-3b2822201"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "email": "seniorfullstacknode@gmail.com",
+  "ps1_hostname": "seniorfullstack",
+  "ps1_username": "guest",
+  "repo": "https://github.com/bwz3rbot/seniorfullstack",
+  "resume_url": "https://docs.google.com/document/d/1jB4Q_47mvbabL7V34FSEDdC0f6nfBKhXL0bMxy-SfSU/edit?usp=sharing",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "https://paypal.me/seniorfullstack",
+    "patreon": "https://patreon.com/bingobangobotto"
   },
   "colors": {
     "light": {
